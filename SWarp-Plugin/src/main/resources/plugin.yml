@@ -1,0 +1,9 @@
+name: SWarp
+version: 1.0.0
+main: com.swarp.xeonally.SWarp
+api-version: 1.19
+author: XeonAlly
+description: simple warp system plugin
+commands:
+  워프추가:
+  워프삭제:
